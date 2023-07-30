@@ -1,10 +1,5 @@
-# Flutter Netflix Responsive UI Tutorial | Web and Mobile
-
-[YouTube Tutorial](https://youtu.be/rJKN_880b-M)
-
-![Web Screenshot](screenshots/web.png)
-
-![Mobile Screenshot 1](screenshots/mobile0.png)
-
-![Mobile Screenshot 2](screenshots/mobile1.png)
 # memeflix_kzilla
+Who says netflix is only for tv series and movies? Heres a prototype of a netflix but for memes.
+Presenting to you memeflix!
+
+
