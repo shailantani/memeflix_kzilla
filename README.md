@@ -17,3 +17,6 @@ Presenting to you memeflix!
 
 # Features:
 - [x] basic page of memeflix
+- [x] tablet mode
+- [ ] Click to see the meme
+- [ ] navigate to favorites, homes, my list
