@@ -14,3 +14,6 @@ Presenting to you memeflix!
 <img width="460" alt="Screenshot 2023-07-31 at 10 31 53 AM" src="https://github.com/shailantani/memeflix_kzilla/assets/98448265/56424ad3-c6b0-4636-ad49-7e5295040520">
 
 <img width="430" alt="Screenshot 2023-07-31 at 10 32 37 AM" src="https://github.com/shailantani/memeflix_kzilla/assets/98448265/bd0c5427-e9a5-40f8-819d-74d2e7ffe5cd">
+
+# Features:
+[x] basic page of memeflix
